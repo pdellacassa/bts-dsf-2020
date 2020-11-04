@@ -1,5 +1,6 @@
 ![BTS](/Logo-BTS.jpg)
 
-# Data Science Foundations - Assignments 2020
-All the assignments submitted during the Data Science Foundations course
+# Data Science Foundations - Master in Big Data Solutions 2020
+- Materials 
+- Assignments 
 
