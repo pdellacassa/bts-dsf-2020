@@ -1,4 +1,4 @@
-![BTS](Logo-BTS.jpg)
+![BTS](/Logo-BTS.jpg)
 
 # bts-dsf-assignments-2020
 all the assignments submitted during the Data Science Foundations course
